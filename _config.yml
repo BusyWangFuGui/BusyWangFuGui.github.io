@@ -78,7 +78,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "相信过程"
-sidebar-avatar: /img/bg-cat.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/bg-cat.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
