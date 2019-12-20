@@ -1,9 +1,9 @@
 # Site settings
 title: YH's Space
 SEOTitle: YH的博客
-header-img: img/lion-bg.jpg
+header-img: "https://sm.ms/image/tPdRLnbhpIJaO2K"
 email: spaceman1106@qq.com
-description: "记录学习与琐碎烦恼~"
+description: "学~"
 keyword: "C++"
 url: "https://spaceman.site"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
